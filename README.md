@@ -34,3 +34,6 @@
    ```bash
    deactivate
    ```
+
+### NOTE:
+   Only temp.ipnyb, has the full up to date functioning without any refactoring.
