@@ -1,0 +1,2 @@
+Ankiit, “Word2vec vs BERT,” Medium, 2022. [Online]. Available: https://medium.com/@ankiit/word2vec-vs-bert-d04ab3ade4c9.
+TensorFlow Authors, “Classify text with BERT,” TensorFlow, Accessed: Sep. 18, 2024. [Online]. Available: https://www.tensorflow.org/text/tutorials/classify_text_with_bert.
