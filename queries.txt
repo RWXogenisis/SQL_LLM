@@ -1,0 +1,3 @@
+List out the details of the club heads from all the clubs
+Get the names of the clubs starting with the letter 'A'
+What is the name of the club where the person with head ID 1 is the head?
