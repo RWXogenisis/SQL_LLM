@@ -1,0 +1,1 @@
+This directory contains multiple files corresponding to different embedding models designed for the conversion of natural language into SQL queries. It does not utilize an entropy temperature parameter to regulate the level of randomness in the model's outputs, providing rigidity and more control by the user in generating SQL queries from user input.
